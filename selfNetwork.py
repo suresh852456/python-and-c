@@ -56,7 +56,6 @@ class Node:
 		if iface in self.connections.keys():
 			if self.connections[iface]==True:
 				self.connections[iface]==False
-				del self.connections[iface]
 			else:
 				print "Interface was not used unable to disconnect"
 		else:
