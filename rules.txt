@@ -13,3 +13,14 @@ any,192.168.0.11,192.168.2.7,any,121,443,accept,7
 1,192.168.0.15,192.168.2.5,any,122,464,deny,11
 0,192.168.0.14,192.168.2.5,udp,134,464,deny,12
 any,any,any,any,any,any,deny,13
+http://stackoverflow.com/questions/2656997/python-expand-tabs-length-calculation
+
+http://stackoverflow.com/questions/20242479/printing-a-tree-data-structure-in-python
+
+https://github.com/david415/nfqueue-bindings/blob/master/examples/example.py
+
+http://stackoverflow.com/questions/10439956/accepting-packets-in-user-space-from-netfilter
+
+http://www.binarytides.com/python-packet-sniffer-code-linux/
+
+
